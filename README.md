@@ -17,7 +17,7 @@ Analyse for the major cause of attrition in the organization and possible recomm
 - Step 3 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
 - Step 4 : It was observed that in none of the columns errors & empty values were present.
 - Step 5 : The model view was used to explore the connection amoongdt the various datasets for analysis.
--Step 6 : CVaroius measures were created using DAX expressions to aid analysis such as "Total Employees", "Males", "Females", "%Males", "%Females", "Due for retirement", "Due for Promotion", "Average Monthly Income"
+- Step 6 : CVaroius measures were created using DAX expressions to aid analysis such as "Total Employees", "Males", "Females", "%Males", "%Females", "Due for retirement", "Due for Promotion", "Average Monthly Income"
 - Step  7: In the report view, under the view tab, theme was selected.
 - Step 8 : Multiple card visuals were added to the canvas repersenting the measures created in step 6.
 - Step 9 : Pages 1 and 2 of the dashboard shows an overview of the employee distribution and the Promotion and retirement distribution while page 3 shows an overview of the attrition distribution
